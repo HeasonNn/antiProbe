@@ -1,0 +1,6 @@
+[submodule "antiProbeUI"]
+	path = antiProbeUI
+	url = https://github.com/HeasonNn/antiProbeUI.git
+[submodule "antiProbeCore"]
+	path = antiProbeCore
+	url = https://github.com/HeasonNn/antiProbeCore.git
